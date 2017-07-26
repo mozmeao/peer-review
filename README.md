@@ -4,10 +4,10 @@ The purpose of performance peer review (not to be confused with code review) @mo
 
 While peer review can be conducted at any time, some particularly good times are:
 
-1. 6 months after a new hire.
-2. After completion of a large project.
-3. Preparing/evaluating a promotion or a performance improvement plan.
-4. Whenever someone requests it.
+* 6 months after a new hire.
+* After completion of a large project.
+* Preparing/evaluating a promotion or a performance improvement plan.
+* Whenever someone requests it.
 
 The process relies on 1:1 interaction over requesting via feedback over email or via a form. 
 
