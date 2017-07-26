@@ -9,7 +9,7 @@ While peer review can be conducted at any time, some particularly good times are
 * Preparing/evaluating a promotion or a performance improvement plan.
 * Whenever someone requests it.
 
-The process relies on 1:1 interaction over requesting via feedback over email or via a form. 
+The process relies on 1:1 interaction over requesting feedback via email or a form. 
 
 The basic steps are outlined below:
 
