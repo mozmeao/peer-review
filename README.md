@@ -16,4 +16,4 @@ The basic steps are outlined below:
 1. [Self & Manager Assessment](self_manager_assessment.md)
 2. [Preparing and Conducting Interviews With Peers](conduct_peer_review.md)
 3. [Evaluation of Responses](evaluate_responses.md)
-4. [valuation of Responses](employee_review.md)
+4. [Evaluation of Responses](employee_review.md)
