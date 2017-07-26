@@ -1,4 +1,4 @@
-## Evaluation of Responses
+## Employee Review
 
 There are many books and articles on how to deliver constructive praise and suggestions for improvement. This is hard and we are not covering that here :) Use your own judgement & leverage your training when deciding the manner in which feedback is given.
 
@@ -11,6 +11,6 @@ That being said below are some suggestions:
 1. Make sure to cover the themes that developed, focus and spend the most amount of time on the items that are hard or uncomfortable to discuss, usually that's where the value is.
 
 
-### Written Summary
+## Written Summary
 
 As soon as is reasonable provide a written summary of your discussion with your employee. This is an important document and should summarize what you discussed and any concrete next steps or follow-ups.
