@@ -8,8 +8,7 @@ That being said below are some suggestions:
 1. Do your best to keep the feedback anonymous, although sometimes this is impossible.
 1. Tailor how you deliver feedback to your relationship with the employee and their personality. Some folks are OK with hearing praise and suggestions for improvement, some folks aren't.
 1. If there are concrete next steps.. discuss them individually.
-1. Make sure to cover the themes that developed, focus and spend the most amount of time on the items that are hard or uncomfortable to discuss, usually that's where the value is.
-
+1. Make sure to cover the themes that developed, spend enough time on the positive feedback to ensure that when focusing on the items that are hard or uncomfortable, they are taken in context.
 
 ## Written Summary
 
